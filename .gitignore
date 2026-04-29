@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*.bak
+*~
+.idea/
+.vscode/
+
+# Local env / secrets
+.env
+.env.local
+
+# Test/conversion output
+out/
+*.tmp
+examples/*.out.md
